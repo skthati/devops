@@ -30,17 +30,78 @@ Learn all about Devops
 
 .
 
+    Uniting people, process and technology.
+
+.
+
+    - Team collaborations
+    - Continuous learning
+    - Agile mindset
+
+![alt text](Images/devops-lifecycle.png)
+
+.
+
+![alt text](Images/2-devops-toolchain.png)
 
 
-![alt text](devops-lifecycle.png)
+### Traditional application cycle
 
-
-
+    - Conflicting goals in internal IT operations.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr>
 
+
+### Boiled down to
+
+    - Culture
+    - Automation - 
+    - Measurement
+    - Sharing
+
+    Automation makes process scalable, repeatable and more resilient by minimizing human errors
+
+
+### Joke
+
+    No body knows everything but everyone thinks they are doing it right way.
+.
+
+     Culture of owning. eliminate bottle necks, Increase job satisfaction.
+
+## Devops Culture
+
+    - Encompasses humans and organizational factors that impact development and delivery. 
+
+.
+
+![alt text](Images/3-devops-culture.png)
+
+.
+
+    - Collaboration
+    - Transparency
+    - Shared responsibility
+    - Continuous learning
+    - Measurable outcome
+    - Customer Centric focus
+    - Agility
+    - Automation
+    - Security Integration
+
+
+## Primary goals and benefits of Devops
+
+    - Accelerate time to market
+    - Agile process to quickly adapt to market
+    - Stability and reliability
+    - Quicker detection and resolution of issues.
+
+## IaC - Infrastructure as Code
+
+    - Managing and provisioning computing, networking and storage infrastructure via code.
 
 ## Best practices for Agile 
 
