@@ -319,6 +319,11 @@ https://learn.microsoft.com/en-in/training/paths/az-400-work-git-for-enterprise-
 
 https://learn.microsoft.com/en-us/training/courses/az-400t00
 
+https://learn.microsoft.com/en-us/devops/what-is-devops
+
+Markdown language
+https://github.com/skills/communicate-using-markdown
+
 
 
 Software Testing
